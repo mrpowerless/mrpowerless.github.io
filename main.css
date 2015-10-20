@@ -1,0 +1,12 @@
+h1 {
+    color: #5a5a5a;
+    font-size: 50px;
+    background-image: url   ('http://backgrounds.mysitemyway.com/background/grungy-tileable-vintage-patterns-part-4-5/');
+}
+.navigation a {
+    text-transform: uppercase;
+    clear:both;
+}
+.navigation li {
+    display: inline;
+}
