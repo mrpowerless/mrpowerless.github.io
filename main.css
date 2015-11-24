@@ -3,10 +3,10 @@ h1 {
     font-size: 50px;
     background-image: url   ('http://backgrounds.mysitemyway.com/background/grungy-tileable-vintage-patterns-part-4-5/');
 }
-.navigation a {
+.nav a {
     text-transform: uppercase;
     clear:both;
 }
-.navigation li {
+.nav li {
     display: inline;
 }
